@@ -7,7 +7,7 @@ Has been tested with Ubuntu 12 and should work with 14.
 Supported Platforms
 -------------------
 
-- Debian
+- Ubuntu
 
 Requirements
 ------------
