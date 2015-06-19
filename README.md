@@ -1,6 +1,6 @@
-# jenkins_wrapper-cookbook
+jenkins wrapper cookbook
 
-TODO: Enter the cookbook description here.
+Installs and configures Jenkins CI master, installs a set of jenkins plugins and installs and configures nginx proxy.
 
 ## Supported Platforms
 
